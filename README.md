@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 
 ## About me
 
-i'm a high schooler at shanghai. i am currently coding with c++, python and html. i am also learning languages like java and c#.
+i'm a high schooler at shanghai. i am currently coding with cpp and python. i am also learning languages like js, java and c#.
 
-i'm a heavy video game player. i play minecraft, zelda, honkai star rail and kerbal. I am interested in mod dev.
+i'm a heavy video game player. i play minecraft, zelda, honkai star rail and kerbal. I am interested in mod dev. Join my minecraft server at <a href='frp-cup.com:31128'></a>
 
-i'm also interested in game dev. i dont really know it, but things will change.
+i'm also interested in game dev. i am kinda bad at it, but things will change.
 
-Currently i am a heavy オタク. i watch JJBA and other anime and i wanna buy some manga.
+Currently i am a heavy オタク. i watch anime like frieren. My bilibili account have the same username.
 ## contact
 
 you can email me at humphrey57shen@gmail.com or humphrey57shen@outlook.com.
 
-dont add my wechat, though. wechat is dumb, and i check my email more often.
