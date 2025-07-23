@@ -1,25 +1,30 @@
-
-
-<!--
-**Mcmineskycoder/Mcmineskycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--you can email me on honghui.shen@163.com
-- 🌱 I’m currently learning python and git
-- I love github!
--->
 # README
 
-## About me
+## about me
 
-i'm a high schooler at shanghai. i am currently coding with cpp and python. i am also learning languages like js, java and c#.
+Tech otaku. luv anime and games
 
-i'm a heavy video game player. i play minecraft, zelda, honkai star rail and kerbal. I am interested in mod dev. Join my minecraft server at <a href='frp-cup.com:31128'>frp-cup.com:31128</a>.
+luv sota tech like ai and play video games.
 
-i'm also interested in game dev. i am kinda bad at it, but things will change.
+plan to use Arch Linux but cant afford a new computer, so lets wait
 
-Currently i am a heavy オタク. i watch anime like frieren. My bilibili account have the same username.
-## contact
+very chuuni and can do weird stuff so plz forgive
 
-you can email me at humphrey57shen@gmail.com or humphrey57shen@outlook.com.
+i watch frieren, jojo's bizarre adventure and kaguya. contact me for ur fav
+
+## So, what do you program?
+
+python. the one and only. too good to use any other language anymore
+
+maybe rust in the future?
+
+wanna do a few minecraft mods but idk java so f**k it anyway.
+
+## my projs
+
+listed below
+
+[my website](github.com/moraxborax/moraxborax.github.io)
+
+[me-ru](github.com/moraxborax/me-ru)
 
