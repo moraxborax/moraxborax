@@ -2,11 +2,9 @@
 
 ## about me
 
-Tech otaku. luv anime and games
+Tech otaku. luv anime and games and sota tech like ai.
 
-luv sota tech like ai and play video games.
-
-plan to use Arch Linux but cant afford a new computer, so lets wait
+i use arch btw
 
 very chuuni and can do weird stuff so plz forgive
 
