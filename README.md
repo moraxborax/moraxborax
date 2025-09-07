@@ -26,3 +26,4 @@ listed below
 
 [me-ru](github.com/moraxborax/me-ru)
 
+[21st Century Schizoid Ad] (github.com/moraxborax/21st-century-schizoid-ad)
