@@ -28,5 +28,7 @@ listed below
 
 [21st Century Schizoid Ad](github.com/moraxborax/21st-century-schizoid-ad)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraxborax)](https://github.com/anuraghazra/github-readme-stats)
+
 ## contact me
 
