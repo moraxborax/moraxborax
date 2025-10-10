@@ -33,6 +33,3 @@ these two are vibecoded so its not really reliable
 [21st Century Schizoid Ad](github.com/moraxborax/21st-century-schizoid-ad)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraxborax)](https://github.com/anuraghazra/github-readme-stats)
-## contact me
-
-email me at humphrey57shen@outlook.com
