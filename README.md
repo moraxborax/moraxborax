@@ -16,7 +16,7 @@ listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. but 
 
 python. the one and only. too good to use any other language anymore
 
-Now restarted cpp and start trying rust.
+Now restarted cpp and start trying rust. RUST DAISUKI!!!
 
 wanna do a few minecraft mods but java is  **fucking shit** so fuck it anyway. later might use kotlin instead.
 
