@@ -14,7 +14,7 @@ listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. but 
 
 ## So, what do you program?
 
-python. the one and only. too good to use any other language anymore
+python. the one and only. too good to use any other language anymore(嘘である。)
 
 Now restarted cpp and start trying rust. RUST DAISUKI!!!
 
