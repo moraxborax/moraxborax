@@ -14,11 +14,11 @@ listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. One 
 
 ## So, what do you program?
 
-python. the one and only. too good to use any other language anymore(嘘である。)
+python. the one and only. 
 
-Now restarted cpp and start trying rust. RUST DAISUKI!!!
+Now restarted cpp and start trying rust. cargo is just so fucking good
 
-wanna do a few minecraft mods but java is  **fucking shit** so fuck it anyway. later might use kotlin instead.
+wanna do a few minecraft mods. java sucks but i accept it.
 
 ## my projs
 
@@ -32,4 +32,6 @@ these two are vibecoded so its not really reliable
 
 [21st Century Schizoid Ad](github.com/moraxborax/21st-century-schizoid-ad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraxborax)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraxborax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
