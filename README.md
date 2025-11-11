@@ -10,7 +10,7 @@ very chuuni and can do weird stuff so plz forgive
 
 i watch frieren, jojo's bizarre adventure and kaguya. contact me for ur fav
 
-listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. but one of my favorite is still 164's amanojaku. the one gumi song to rule them all.
+listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. One of my favorite is still 164's amanojaku. the one gumi song to rule them all.
 
 ## So, what do you program?
 
