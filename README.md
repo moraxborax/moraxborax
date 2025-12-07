@@ -2,7 +2,7 @@
 
 ## about me
 
-Tech otaku. luv anime and games and sota tech like ai.
+Proudly a weeb. Tech otaku. luv anime and games and sota tech like ai.
 
 i use arch btw
 
