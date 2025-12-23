@@ -8,25 +8,25 @@ i use arch btw
 
 very chuuni and can do weird stuff so plz forgive
 
-i watch frieren, jojo's bizarre adventure and kaguya. contact me for ur fav
+i watched frieren, jojo's bizarre adventure, kaguya and bocchi the rock. recently watched bang dream it's mygo!!!!!
 
-listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. One of my favorite is still 164's amanojaku. the one gumi song to rule them all.
+listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. 
 
 ## So, what do you program?
 
-python. the one and only. 
+python, mostly. sometimes does a bit rust or cpp or golang. used some ai to make some web apps.
 
-Now restarted cpp and start trying rust. cargo is just so fucking good
+wanna do a few minecraft mods. java sucks but i have to accept it.
 
-wanna do a few minecraft mods. java sucks but i accept it.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraxborax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## my projs
 
-listed below
+### Reliable ones:
 
 [my website](github.com/moraxborax/moraxborax.github.io)
 
-these two are vibecoded so its not really reliable
+### these two listed below are vibecoded so its not really reliable
 
 [me-ru](github.com/moraxborax/me-ru)
 
@@ -34,4 +34,4 @@ these two are vibecoded so its not really reliable
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moraxborax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
