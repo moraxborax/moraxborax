@@ -25,17 +25,17 @@ wanna do a few minecraft mods. java sucks but i have to accept it.
 
 ### reliable ones:
 
-[my website](github.com/moraxborax/moraxborax.github.io)
+[my website](https://github.com/moraxborax/moraxborax.github.io)
 
-[learning golang](github.com/moraxborax/its-mygo)
+[learning golang](https://github.com/moraxborax/its-mygo)
 
 ### these listed below are vibecoded so its not really reliable
 
-[ai inbox](github.com/moraxborax/me-ru)
+[ai inbox](https://github.com/moraxborax/me-ru)
 
-[bilibili ad skipper](github.com/moraxborax/21st-century-schizoid-ad)
+[bilibili ad skipper](https://github.com/moraxborax/21st-century-schizoid-ad)
 
-[many pause-able timers](github.com/moraxborax/za-warudo)
+[many pause-able timers](https://github.com/moraxborax/za-warudo)
 
 
 
