@@ -27,11 +27,9 @@ wanna do a few minecraft mods. java sucks but i have to accept it.
 
 [my website](github.com/moraxborax/moraxborax.github.io)
 
-[self introduction](github.com/moraxborax/moraxborax)
-
 [learning golang](github.com/moraxborax/its-mygo)
 
-### these two listed below are vibecoded so its not really reliable
+### these listed below are vibecoded so its not really reliable
 
 [ai inbox](github.com/moraxborax/me-ru)
 
