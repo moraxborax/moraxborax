@@ -41,6 +41,6 @@ as you may see, all of them have an anime reference lol
 
 ## contact me
 
-[twitter](https://x.com/moraxborax) [reddit](reddit.com/user/mcminesky314159)
+[twitter](https://x.com/moraxborax) [reddit](https://reddit.com/user/mcminesky314159)
 
 stop expecting linkedin im not gonna use it
