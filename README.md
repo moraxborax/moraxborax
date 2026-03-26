@@ -5,13 +5,11 @@
 
 tech otaku. luv anime and games and sota tech like ai.
 
-i use arch btw
-
-very chuuni and can do weird stuff so plz forgive
-
-i watched frieren, jojo's bizarre adventure, kaguya, bocchi the rock, and it's mygo. my fav characters include jotaro, ishigami yuu, and chihaya anon.
+i watched frieren, jojo's bizarre adventure, kaguya, bocchi the rock, and it's mygo. my fav characters include jotaro, ishigami yuu, bocchi, and chihaya anon. started watching nisekoi
 
 listen to vocaloid songs. like DECO\*27, PinocchioP, n-buna and Orangestar. also jpop songs, especially from yorushika.
+
+plays tears of the kingdom and minecraft and also p5r a bit
 
 ## so, what do you program?
 
