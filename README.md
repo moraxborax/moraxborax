@@ -29,8 +29,6 @@ wanna do a few minecraft mods. java sucks but i have to accept it.
 
 ### these listed below are vibecoded so its not really reliable
 
-[ai inbox](https://github.com/moraxborax/me-ru)
-
 [bilibili ad skipper](https://github.com/moraxborax/21st-century-schizoid-ad)
 
 [many pause-able timers](https://github.com/moraxborax/za-warudo)
