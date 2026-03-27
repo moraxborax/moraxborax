@@ -27,6 +27,10 @@ wanna do a few minecraft mods. java sucks but i have to accept it.
 
 [learning golang](https://github.com/moraxborax/its-mygo)
 
+[learning graph theory](https://github.com/moraxborax/graph)
+
+[cursed dsp](https://github.com/moraxborax/otto)
+
 ### these listed below are vibecoded so its not really reliable
 
 [bilibili ad skipper](https://github.com/moraxborax/21st-century-schizoid-ad)
