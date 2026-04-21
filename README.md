@@ -17,7 +17,7 @@ python, mostly. sometimes does a bit rust or cpp or golang. used some ai to make
 
 wanna do a few minecraft mods. java sucks but i have to accept it.
 
-[![Top Langs](github-readme-stats-nine-sigma-71.vercel.app/api/top-langs/?username=moraxborax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-sigma-71.vercel.app/api/top-langs/?username=moraxborax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## my projs
 
