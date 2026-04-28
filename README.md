@@ -37,6 +37,8 @@ wanna do a few minecraft mods. java sucks but i have to accept it.
 
 [many pause-able timers](https://github.com/moraxborax/za-warudo)
 
+[minecraft mod downloader](https://github.com/moraxborax/mcmod)
+
 as you may see, all of them have an anime reference lol
 
 ## contact me
