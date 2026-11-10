@@ -17,6 +17,8 @@ python, mostly. sometimes does a bit rust or cpp or golang. used some ai to make
 
 wanna do a few minecraft mods. 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=moraxborax&layout=compact&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=moraxborax&layout=compact&langs_count=5&theme=tokyonight)
+
 ## my projs
 
 ### reliable ones:
